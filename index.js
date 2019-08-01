@@ -1,6 +1,6 @@
 // write your code below!
 
-var name = "Joe"
+var name = "Imran"
 var height = "74"
 
 // string name then calls variable name
